@@ -13,3 +13,5 @@ Step 3:
 	Create file root_v1.rb in app/api
 Step 4:
 	Change routes.rb
+
+Ex: link for v1: /api/v1/users

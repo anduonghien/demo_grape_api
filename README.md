@@ -4,10 +4,8 @@ Step 1:
 
 Step 2:
 	Add
-
 		config.paths.add 'app/api', glob: '**/*.rb'
     	config.autoload_paths += Dir["#{Rails.root}/app/api/*"]
-    	
     to config/application.rb
 
 Step 3:
